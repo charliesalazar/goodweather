@@ -1,13 +1,12 @@
 GOOD Weather
-=========
+============
 
 GOOD Weather is a dead simple mobile weather app using [jQuery Mobile], [Meteocons], and the [Forecast.io API]. This is a [Treehouse] project.
 
 [Preview]
 -
 
-
-*Charlie*
+*[Charlie]*
 
 
   [jQuery Mobile]: http://jquerymobile.com/
@@ -15,3 +14,4 @@ GOOD Weather is a dead simple mobile weather app using [jQuery Mobile], [Meteoco
   [Forecast.io API]]: https://developer.forecast.io/
   [Treehouse]: http://teamtreehouse.com/
   [Preview]: http://charliesalazar.com/goodweather/
+  [Charlie]: http://charliesalazar.com/
