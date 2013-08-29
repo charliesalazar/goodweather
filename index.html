@@ -43,7 +43,7 @@
 
 		var latlng = cityCoords.coords.latitude + "," + cityCoords.coords.longitude;
 
-		var forecastURL = "https://api.forecast.io/forecast/762e1a4b0b6523ace991feda9ceddf7c/"+latlng;
+		var forecastURL = "https://api.forecast.io/forecast/<YOUR API KEY>/"+latlng;
 
 		$.ajax({
 			    url: forecastURL,
